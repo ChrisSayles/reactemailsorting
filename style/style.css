@@ -1,8 +1,10 @@
-
+.headerBG{
+  background-color: grey
+}
 .headerText{
   font-size: 30px;
   text-align: center;
-  padding-top: 35px
+  padding-top: 35px;
 }
 
 .headerSubfont{

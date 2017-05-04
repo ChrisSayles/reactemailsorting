@@ -3,7 +3,7 @@ import React, { Component } from 'react';
  class Header extends Component {
    render() {
      return(
-        <div >
+        <div>
        <div className="headerText col-md-12">Your Email organized</div>
        <div className="col-md-1"></div>
        <span className="headerSubfont headerSubfontBorder col-md-10">Sort your email with the input box</span>
