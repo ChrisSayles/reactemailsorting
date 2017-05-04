@@ -1,0 +1,137 @@
+
+.headerText{
+  font-size: 30px;
+  text-align: center;
+  padding-top: 35px
+}
+
+.headerSubfont{
+  text-align:center;
+  display: table-cell;
+  float: none;
+  margin: auto;
+   position: relative;
+   left:0;
+   right: 0;
+   top: 0;
+   bottom: 0;
+    overflow: hidden;
+    white-space: nowrap;
+}
+.headerSubfontBorder{
+  font-weight: bold;
+  border-style:solid;
+  border-width: thin;
+  padding-top: .01px;
+  border-left-width:5px;
+  border-right-width:5px;
+  border-color: grey;
+  margin-bottom: 20px;
+}
+
+.dropbg{
+  background-color: #bdbdbd;
+  height:60px;
+}
+
+.btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    width: 200px;
+    height: 39px;
+    margin-top: 0px
+}
+
+.btn-group>.btn+.dropdown-toggle {
+    padding-right: 8px;
+    padding-left: 8px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    height: 41px;
+    margin-top: -1px
+}
+
+.dropdownSize{
+  height:51px;
+  margin-top: 4px;
+}
+.btn-group>.btn+.dropdown-toggle {
+    padding-right: 8px;
+    padding-left: 8px;
+    height:40px;
+    margin-top: 0px;
+}
+
+.verticalAlign{
+  position: relative;
+   top: 50%;
+   -webkit-transform: translateY(-50%);
+   -ms-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+
+.searchBarLength {
+  width: 532px;
+  height: 51px;
+  margin-top: 4px;
+  float:right
+}
+
+.contentBackground{
+  background-color: #f6f6f6;
+  height:102%
+}
+
+.indentSpace{
+  margin-left: 50px;
+}
+.bodyRowHeight{
+  height:45px;
+  vertical-align: middle;
+  margin-top: 10px;
+}
+
+.contentBackgroundWhite{
+  background-color:white;
+  height:40px;
+  text-align: center;
+vertical-align: middle;
+line-height: 42px;
+}
+
+.logoImage{
+  height:40px;
+  max-width:60px;
+}
+
+.whiteBG{
+  background-color: white;
+  height:40px;
+  vertical-align: middle;
+  line-height: 42px;
+  margin-top:3px
+}
+
+.MarginLeft{
+  margin-left: -13px
+}
+.emailMargin{
+  margin-left:-107px;
+}
+
+.dropDownContent{
+  line-height: 3px;
+
+}
+.btnDivHeight{
+  height:40px;
+  margin-top: 3px
+
+}
+.bodyBg{
+  background-color: #f6f6f6;
+}
+
+.categoryIndent{
+  margin-left:81px
+}
